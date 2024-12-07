@@ -8,3 +8,4 @@ Some text
 1. open index.htnl in your browser
 2. have fun
 3. Keep going
+4. another point
